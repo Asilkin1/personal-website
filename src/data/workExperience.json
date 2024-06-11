@@ -1,0 +1,28 @@
+[
+  {
+    "position": "Full Stack TypeScript Developer",
+    "company": "UpWork",
+    "duration": "2023 - Present",
+    "details": "Worked on various full-stack web development projects."
+  },  
+  {
+      "position": "Full Stack TypeScript Developer",
+      "company": "Boston Microgreens",
+      "duration": "2021 - 2021",
+      "details": "Assisted in developing SaaS platform for microgreens farmers."
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "Wentworth Institute of Technology",
+      "duration": "2020 - 2021",
+      "details": "Focused on building responsive user interfaces with React."
+    },
+    {
+      "position": "QA Tester",
+      "company": "Utest",
+      "duration": "2014 - 2018",
+      "details": "Quality Assurance and mobile apps testing."
+    }
+    
+  ]
+  

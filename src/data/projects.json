@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Project A",
+      "description": "A web application for managing tasks.",
+      "link": "https://example.com/project-a",
+      "technologies": ["React", "Node.js", "Express", "MongoDB"]
+    },
+    {
+      "name": "Ethereum blockchain tournament betting",
+      "description": "A betting app on Ethereum Blockchain.",
+      "link": "https://github.com/Asilkin1/Eth-blockchain-tournament-betting",
+      "technologies": ["ReactJS", "NodeJS","Solidity","Truffle","Ganache"]
+    },
+    {
+      "name": "Word Guesser Wordle Clone",
+      "description": "A word game inspired by Wordle with 2 game modes",
+      "link": "https://github.com/Asilkin1/Word-Guesser-Wordle-Clone",
+      "technologies": ["JavaScript", "NextJS", "ReactJS","API"]
+    }
+  ]
+  

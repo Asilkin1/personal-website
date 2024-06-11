@@ -1,0 +1,14 @@
+.certificates {
+    position: relative;  
+  }
+  
+  .certificates-counter {
+    position: absolute;
+    top: -60px;
+    left: 0;
+    background-color: #1Ad;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
