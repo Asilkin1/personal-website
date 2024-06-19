@@ -5,12 +5,16 @@ import Projects from './components/Projects/Projects';
 import Certificates from './components/Certificates/Certificates';
 import TechnologiesHorizonal from './components/TechnologiesHorizontal/TechnologiesHorizontal'
 import Footer from './components/Footer/Footer';
+
 function App() {
+  
   return (
     <div className="App">
+     
       <header className="App-header">
         <h1>Alex Silkin * Full Stack Developer * QA Tester</h1>
       </header>
+     
       <TechnologiesHorizonal />
       <div className="content">
         <div className="column">
