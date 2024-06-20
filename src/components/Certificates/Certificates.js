@@ -22,7 +22,9 @@ const Certificates = () => {
             )}
             <p>
               <a href={certificate.imageLink} target="_blank" rel="noopener noreferrer">
-                <img src={certificate.imageLink} alt={certificate.name} style={{ width: '100px', height: 'auto' }} />
+                {certificate.imageLink &&
+                  <img src={certificate.imageLink} alt={certificate.name} style={{ width: '100px', height: 'auto' }} />
+                }
               </a>
             </p>
           </li>

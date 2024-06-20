@@ -6,6 +6,7 @@
     { "name": "HTML", "emoji": "🌐" },
     { "name": "CSS", "emoji": "🎨" },
     {"name": "NextJS", "emoji": "🧑‍💻"},
-    {"name": "C/C++","emoji": "📘"}
+    {"name": "C/C++","emoji": "📘"},
+    {"name":"C#", "emoji":"⚙️"}
   ]
   
