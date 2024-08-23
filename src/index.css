@@ -5,9 +5,25 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  line-height: 1.6; /* Improve readability on smaller screens */
+  color: #333; /* Base text color */
+  background-color: #f8f8f8; /* Light background color */
+
+
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+  font-size: 0.9em; /* Slightly smaller font size for inline code */
+  background-color: #eee; /* Light background for code */
+  padding: 2px 4px; /* Space around code */
+  border-radius: 4px; /* Rounded corners for better appearance */
+}
+
+/* Layout */
+header, footer {
+  background-color: #333; /* Dark background for header and footer */
+  color: #fff; /* White text color */
+  padding: 10px 0; /* Padding for header and footer */
+  text-align: center; /* Center-align text */
 }

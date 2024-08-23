@@ -1,10 +1,5 @@
 [
-    {
-      "name": "Project A",
-      "description": "A web application for managing tasks.",
-      "link": "https://example.com/project-a",
-      "technologies": ["React", "Node.js", "Express", "MongoDB"]
-    },
+    
     {
       "name": "Ethereum blockchain tournament betting",
       "description": "A betting app on Ethereum Blockchain.",
@@ -16,6 +11,12 @@
       "description": "A word game inspired by Wordle with 2 game modes",
       "link": "https://github.com/Asilkin1/Word-Guesser-Wordle-Clone",
       "technologies": ["JavaScript", "NextJS", "ReactJS","API"]
+    },
+    {
+      "name": "Student Feedback",
+      "description":"Allow to post anonymouse feedback for college class performance using emojies as a scale.",
+      "link":"https://github.com/Asilkin1/student-feedback",
+      "technologies": ["Python", "Flask","SQLAlchemy","Pandas","NumPy","Matplotlib"]
     }
   ]
   

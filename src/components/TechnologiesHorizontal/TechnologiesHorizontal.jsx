@@ -5,20 +5,11 @@ import technologiesData from './technologiesData.json'
 const HorizontalList = () => {
   const [technologies, setTechnologies] = useState([]);
 
-  // useEffect(() => {
-  //   fetch('./technologies.json') 
-  //     .then(response => response.json())
-  //     .then(data => setTechnologies(data))
-  //     .catch(error => console.error('Error loading technologies:', error));
-  
-  
-  //   }, []);
     useEffect(() => {
       setTechnologies(technologiesData);
     }, []);
   return (
     <div className="horizontal-list">
-      <h2></h2>
       <ul>
         {technologies.map((tech, index) => (
           <li key={index}>

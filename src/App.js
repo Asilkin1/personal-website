@@ -15,8 +15,12 @@ function App() {
         <h1>Alex Silkin * Full Stack Developer * QA Tester</h1>
       </header>
      
-      <TechnologiesHorizonal />
+     
       <div className="content">
+        <div className="column">
+          <h2>Stack</h2>
+        <TechnologiesHorizonal />
+        </div>
         <div className="column">
           <h2>Work Experience</h2>
           <WorkExperience />

@@ -10,18 +10,15 @@
   .horizontal-list ul {
     list-style-type: none;
     padding: 0;
-    display: flex;
+    display: column;
     justify-content: center;
   }
   
   .horizontal-list li {
     margin-right: 20px;
     font-size: 1rem;
-    display: flex;
+    
     align-items: center;
   }
   
-  .horizontal-list li:last-child {
-    margin-right: 0;
-  }
   
