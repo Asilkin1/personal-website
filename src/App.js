@@ -17,19 +17,19 @@ function App() {
      
      
       <div className="content">
-        <div className="column">
+        <div className="code">
           <h2>Stack</h2>
         <TechnologiesHorizonal />
         </div>
-        <div className="column">
+        <div className="code">
           <h2>Work Experience</h2>
           <WorkExperience />
         </div>
-        <div className="column">
+        <div className="code">
           <h2>Projects</h2>
           <Projects />
         </div>
-        <div className="column">
+        <div className="code">
           <h2>Certificates</h2>
           <Certificates />
         </div>

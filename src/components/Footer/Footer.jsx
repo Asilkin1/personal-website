@@ -4,7 +4,7 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer className="footer">
+    <footer>
       <div className="footer-content">
         <p>&copy; 2018-2024 Alex Silkin Website. All rights reserved.</p>
       </div>
