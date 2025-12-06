@@ -1,24 +1,22 @@
 .horizontal-list {
     margin-top: 10px;
-  }
-  
-  .horizontal-list h2 {
+}
+
+.horizontal-list h2 {
     font-size: 1.1rem;
     margin-bottom: 0px;
-  }
-  
-  .horizontal-list ul {
+}
+
+.horizontal-list ul {
     list-style-type: none;
     padding: 0;
     display: column;
     justify-content: center;
-  }
-  
-  .horizontal-list li {
+}
 
+.horizontal-list li {
+    margin-right: 20px;
     font-size: 1rem;
-    
+
     align-items: center;
-  }
-  
-  
+}

@@ -1,10 +1,11 @@
 // Footer.js
 
-import React from 'react';
-
+import React from "react";
+import "./Footer.css";
 const Footer = () => {
   return (
-    <footer>
+    <footer className="footer">
+      {/* Add various contacts: LinkedIN, GitHub, Email, */}
       <div className="footer-content">
         <p>&copy; 2018-2024 Alex Silkin Website. All rights reserved.</p>
       </div>
